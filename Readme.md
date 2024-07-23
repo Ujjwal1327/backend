@@ -22,4 +22,6 @@
 - read about process.exit from doc.
 - know more about connection-instance object
 
-
+## fourth commit: part 1
+- install cookie-parse and cors(cross origin resource share)
+- app.use "(use)" is used when we use middlewares and do configurations
