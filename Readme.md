@@ -18,5 +18,8 @@
 - db connection ko hamesa try catch me wrap karo
 - db hamesa dusre continent me hai matlb connection me time    lagta hai to async await ka use karo..
 
+## third commit : Method 2. connect db in another file to keep the index file clean.
+- read about process.exit from doc.
+- know more about connection-instance object
 
 
