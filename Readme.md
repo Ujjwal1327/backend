@@ -1,5 +1,5 @@
 # Backend sereis learning
-## First commit:
+## First commit: ""
 - this commit is only for creating repo on github.
 ## second commit : project setup part -1
 - to keep empty folders and subfolders tracked by git add .gitkeep file in that subfolders/folder to being tracked by remaing empty.
@@ -9,5 +9,14 @@
 
 ## second commit : project setup part -2
 - added some empty folders in src folder like controllers db middlewares modes routs utils
+- npm i prettier and then -> .prettier file created
 
-- npm i prettier and then -> .prettier file created 
+## third commit : Method 1. connect db in index file using IFFE 
+- save port number , mongoDb url in .env file.
+- add db name in constant.js
+- install dotenv , mongoose , express
+- db connection ko hamesa try catch me wrap karo
+- db hamesa dusre continent me hai matlb connection me time    lagta hai to async await ka use karo..
+
+
+
